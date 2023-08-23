@@ -1,0 +1,33 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Azerbaycan"
+    },
+    {
+      "id": 2,
+      "name": "Turkey"
+    },
+    {
+      "name": "Amerika",
+      "id": 3
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Baku",
+      "country_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ankara",
+      "country_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Istanbul",
+      "country_id": 2
+    }
+  ]
+}
